@@ -21,6 +21,11 @@ body {
   padding-top: 7.5rem;
 }
 
+.content-section-special-team {
+  padding-top: 7.5rem;
+  background-color: #1d809f;
+}
+
 .content-section-special-withoutTop {
   padding-bottom: 7.5rem;
   padding-top: 1.5rem;
