@@ -23,7 +23,7 @@ body {
 
 .content-section-special-team {
   padding-top: 7.5rem;
-  background-color: #1d809f;
+  background-color: #ae0000;
 }
 
 .content-section-special-withoutTop {
@@ -135,7 +135,7 @@ h6 {
   -o-transition: all 0.4s ease 0s;
   transition: all 0.4s ease 0s;
   transform: translateX(250px);
-  background: #1D809F;
+  background: #ae0000;
   border-left: 1px solid rgba(255, 255, 255, 0.1);
 }
 
@@ -218,7 +218,7 @@ h6 {
 
 .service-icon {
   background-color: #fff;
-  color: #1D809F;
+  color: #ff0000;
   height: 7rem;
   width: 7rem;
   display: block;
@@ -302,7 +302,7 @@ h6 {
     clip-path: inset(2rem);
   }
   .portfolio-item:hover .caption {
-    background-color: rgba(29, 128, 159, 0.9);
+    background-color: rgba(174, 0, 0, 0.9);
     -webkit-clip-path: inset(2rem);
     clip-path: inset(2rem);
   }
@@ -319,7 +319,7 @@ footer.footer .social-link {
   width: 4rem;
   line-height: 4.3rem;
   font-size: 1.5rem;
-  background-color: #1D809F;
+  background-color: #ae0000;
   transition: background-color 0.15s ease-in-out;
   box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
 }
@@ -330,22 +330,22 @@ footer.footer .social-link:hover {
 }
 
 a {
-  color: #1D809F;
+  color: #ecb807;
 }
 
 a:hover, a:focus, a:active {
-  color: #155d74;
+  color: #ae0000;
 }
 
 .btn-primary {
-  background-color: #1D809F !important;
-  border-color: #1D809F !important;
+  background-color: #ae0000 !important;
+  border-color: #ae0000 !important;
   color: #fff !important;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background-color: #155d74 !important;
-  border-color: #155d74 !important;
+  background-color: #ae0000 !important;
+  border-color: #ae0000 !important;
 }
 
 .btn-secondary {
@@ -369,7 +369,7 @@ a:hover, a:focus, a:active {
 }
 
 .bg-primary {
-  background-color: #1D809F !important;
+  background-color: #ae0000 !important;
 }
 
 .text-primary {
@@ -431,7 +431,7 @@ a:hover, a:focus, a:active {
       color: white;
       border: 7px solid #f1f1f1;
       border-radius: 100%;
-      background-color: #1d809f; }
+      background-color: #ae0000; }
       .timeline > li .timeline-image h4 {
         font-size: 10px;
         line-height: 14px;
@@ -569,5 +569,5 @@ a:hover, a:focus, a:active {
 }
 
 .header-content-inner img {
-    width: 100% !important;
+    width: 80% !important;
     height: auto !important;
