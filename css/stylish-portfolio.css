@@ -394,7 +394,7 @@ a:hover, a:focus, a:active {
     width: 2px;
     margin-left: -1.5px;
     content: '';
-    background-color: #f1f1f1; }
+    background-color: #cacaca; }
   .timeline > li {
     position: relative;
     min-height: 50px;
