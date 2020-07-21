@@ -1,8 +1,8 @@
 const team = [
     {
         name: "Francesco Coppola",
-        role: "Developer and student",
-        bio: "Studente del secondo anno di Computer Science all'università di Camerino",
+        role: "Developer and Doctor",
+        bio: "Laureato in Computer Science all'Università di Camerino",
         img: "img/team/Francesco.jpg",
         social: {
             twitter: "https://twitter.com/francescocops",
@@ -91,7 +91,7 @@ const team = [
         name: "Dawid Weglarz",
         role: "Developer and student",
         bio: "Studente del terzo anno di Computer Science all'università di Urbino e presidente del Maker Space nella Bibloteca Multimediale di Fabriano",
-        img: "img/team/Dawid.jpg",
+        img: "http://0.gravatar.com/avatar/5c9ed8fd12a584f8a941c019fb9cfcad?s=256",
         social: {
             twitter: null,
             github: "https://github.com/Radeox",
