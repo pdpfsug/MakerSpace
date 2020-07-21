@@ -46,7 +46,7 @@ const team = [
     {
         name: "Beatrice Rapaccini",
         role: "Teacher",
-        bio: "Co-Fondatrice del gruppo MakerSpace nella Bibloteca Multimediale di Fabriano",
+        bio: "Co-Fondatrice del gruppo MakerSpace nella Biblioteca Multimediale di Fabriano",
         img: "img/team/Beatrice.png",
         social: {
             twitter: "https://twitter.com/tormiento",
@@ -57,7 +57,7 @@ const team = [
     {
         name: "Luca Colciago",
         role: "EQR Development Manager",
-        bio: "Co-Fondatore del MakerSpace nella Bibloteca Multimediale di Fabriano",
+        bio: "Co-Fondatore del MakerSpace nella Biblioteca Multimediale di Fabriano",
         img: "img/team/LucaC.jpg",
         social: {
             twitter: "https://twitter.com/dottork",
@@ -79,7 +79,7 @@ const team = [
     {
         name: "Luca Ferroni",
         role: "Open man",
-        bio: "Analista software specializzato nel settore Network con Linux nel cuore e Co-Fondatore del MakerSpace nella Bibloteca Multimediale di Fabriano",
+        bio: "Analista software specializzato nel settore Network con Linux nel cuore e Co-Fondatore del MakerSpace nella Biblioteca Multimediale di Fabriano",
         img: "img/team/LucaF.jpg",
         social: {
             twitter: "https://twitter.com/ferodafabriano",
@@ -90,7 +90,7 @@ const team = [
     {
         name: "Dawid Weglarz",
         role: "Developer and student",
-        bio: "Studente del terzo anno di Computer Science all'università di Urbino e presidente del MakerSpace nella Bibloteca Multimediale di Fabriano",
+        bio: "Studente del terzo anno di Computer Science all'università di Urbino",
         img: "http://0.gravatar.com/avatar/5c9ed8fd12a584f8a941c019fb9cfcad?s=256",
         social: {
             twitter: null,
