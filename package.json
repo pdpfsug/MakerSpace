@@ -1,29 +1,21 @@
 {
-    "title": "Makerspace Homepage",
-    "name": "makerspace-home",
-    "version": "1.0.0",
-    "description": "Homepage of the Fabriano's Makerspace",
-    "keywords": [
-        "css",
-        "sass",
-        "html",
-        "responsive"
-    ],
-    "license": "MIT",
-    "author": "Makerspace Fabriano",
-    "dependencies": {
-        "bootstrap": "^4.5.0",
-        "font-awesome": "4.7.0",
-        "jquery": "^3.5.1",
-        "jquery.easing": "^1.4.1",
-        "simple-line-icons": "^2.4.1"
-    },
-    "devDependencies": {
-        "gulp": "^4.0.2",
-        "gulp-clean": "^0.4.0",
-        "gulp-clean-css": "^4.3.0",
-        "gulp-rename": "^1.2.2",
-        "gulp-sass": "^5.0.0",
-        "gulp-terser": "^1.2.0"
-    }
+  "title": "Makerspace Homepage",
+  "name": "makerspace-home",
+  "version": "1.0.0",
+  "description": "Homepage of the Fabriano's Makerspace",
+  "keywords": [
+    "css",
+    "sass",
+    "html",
+    "responsive"
+  ],
+  "license": "MIT",
+  "author": "Makerspace Fabriano",
+  "dependencies": {
+    "bootstrap": "^5.2.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.6.1",
+    "jquery-easing": "^0.0.1",
+    "simple-line-icons": "^2.5.5"
+  }
 }

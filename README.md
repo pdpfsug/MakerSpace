@@ -3,11 +3,9 @@
 ## Setup ##
 
 ```bash
-$ npm install -g gulp
-$ git clone https://github.com/pdpfsug/MakerSpace
-$ cd MakerSpace
-$ npm install
-$ gulp
+git clone https://github.com/pdpfsug/MakerSpace
+cd MakerSpace
+npm install
 ```
 
-Then open the file `index.html` with your favourite browser.
+Then open the `index.html` with your favourite browser.
